@@ -1,8 +1,8 @@
 # New_Dogfood
 Optimazation of Layered Model on File System Testing
 
-本文是在基于原始的基于层次模型的文件系统检测Dogfood的优化和改进
-原始的Dogfood模型的github网站：https://github.com/midwinter1993/dogfood
+本文是在基于原始的基于层次模型的文件系统检测Dogfood的优化和改进<br>
+原始的Dogfood模型的github网站：https://github.com/midwinter1993/dogfood<br>
 原始的Dogfood模型相关论文：Mohan J, Martinez A, Ponnapalli S, et al. Finding {Crash-Consistency} Bugs with Bounded {Black-Box} Crash Testing[C]//13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018: 33-50.
 
 本仓库的使用方法：<br>
