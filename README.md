@@ -6,7 +6,7 @@ Optimazation of Layered Model on File System Testing
 原始的Dogfood模型相关论文：Mohan J, Martinez A, Ponnapalli S, et al. Finding {Crash-Consistency} Bugs with Bounded {Black-Box} Crash Testing[C]//13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018: 33-50.
 
 本仓库的使用方法：
-1、首先在原始的Dogfood的github网页上按照步骤下载相关的镜像文件并完成原始的Dogfood的安装；
+1、首先在原始的Dogfood的github网页上按照步骤下载相关的镜像文件并完成原始的Dogfood的安装；\n
 2、用本仓库中的.py文件和.h文件替换掉原始Dogfood中的对应文件；
 
 实验复现：
